@@ -1,0 +1,7 @@
+{
+  "name": "typeface-et-book",
+  "version": "1.0.0",
+  "main": "et-book.css",
+  "description": "A webfont version of the typeface used in Edward Tufte’s [books](https://www.edwardtufte.com/tufte/books_vdqi).",
+  "license": "MIT"
+}
